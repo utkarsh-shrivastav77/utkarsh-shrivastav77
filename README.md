@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...Changing the world
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.instagram.com/utkarsh_shrivastav_007/
+- 📫 How to reach me ...www.linkedin.com/in/utkarsh-shrivastav07
+
+
 
 <!---
 utkarsh-shrivastav77/utkarsh-shrivastav77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
