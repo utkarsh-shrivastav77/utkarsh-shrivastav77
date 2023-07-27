@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarsh-shrivastav77
 - 👀 I’m interested in ...Changing the world
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...C++ and Machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.linkedin.com/in/utkarsh-shrivastav07
 
